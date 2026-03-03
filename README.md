@@ -14,13 +14,13 @@ The goal is to help marketing teams:
 
 ## Data Scope
 
-### ✔ In Scope
+### In Scope
 - Campaigns running on Facebook and Instagram
 - Paid advertising data only
 
 ---
 
-## 📈 Key KPIs
+## Key KPIs
 
 KPI	Definition	Formula	Example Use
 <img width="859" height="577" alt="image" src="https://github.com/user-attachments/assets/c3ed5e37-1945-4a8a-8484-05dcd978963c" />
@@ -81,7 +81,7 @@ Top countries:
 
 ---
 
-## 📊 Ad Type Performance
+## Ad Type Performance
 
 <img width="915" height="165" alt="image" src="https://github.com/user-attachments/assets/63cd9518-c5f1-43ee-9447-37e8e924047c" />
 
